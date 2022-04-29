@@ -1,6 +1,6 @@
 ### Hello
 
-👋 I am a 19 year old Software Engineering Student currently working generally in C/C++, interested in TCP/UDP Communication and Low-Level Networking.
+👋 I am a 20 year old Software Engineering Student currently working generally in C/C++, interested in TCP/UDP Communication and Low-Level Networking.
 
 📈 Career goal is Back-end Developer maintaining and designing APIs.
 
