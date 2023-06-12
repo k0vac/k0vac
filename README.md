@@ -1,13 +1,11 @@
 ### Hello
 
-👋 I am a 20 year old Software Engineering Student currently working generally in C/C++, interested in TCP/UDP Communication and Low-Level Networking.
+👋 I am a 21 year old Software Engineering Student currently working generally in C#, generally interested in interaction with RESTful APIs.
 
 📈 Career goal is Back-end Developer maintaining and designing APIs.
 
-💼 I work part-time as a Freelancer in Graphic Design.
 
-
-- I have worked with projects in C/C++, C#, Python, JavaScript and PHP.
+- I have worked with projects in C/C++, C#, Java, Python, JavaScript and PHP.
 - I also have experience setting up Cloud Servers with Docker, Kubernetes, etc...
 - Check out my repositories for my projects I have made in my free time!
 
